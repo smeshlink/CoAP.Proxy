@@ -1,0 +1,11 @@
+﻿CoAP.Proxy.NET - An Easy Http-CoAP Mapping Proxy for application of Internet of things .NET
+
+Authors:
+	Yan Song <songyan@mail.bnu.edu.cn>
+
+Copyright (c) 2013 Yan Song.ABOUTCoAP.Proxy.NET is a .NET proxy for webclient can view,discovery,observer the resource of Coaper-server . Main features include:
+1. discovery the resource list of the Coaper by http request like(http://[ipv6]:port/index). 
+2. mapping the HTTP-Method to CoAP Method,includes(get,post,put and delete). 3. observer the Coaper by using coap protocol and HTML5 websocket(using supersocket.dll).
+
+This code is distributed in the hope that it will be useful,
+but WITHOUT WARRANTY OF ANY KIND.
